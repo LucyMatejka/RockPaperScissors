@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'capybara'
 gem 'rake'
 gem 'sinatra'
-gem 'capybara'
 
 group :test do
   gem 'capybara'
